@@ -1,0 +1,3 @@
+{ "strategy": "commit",
+  "commit": { "message": "Spring format fixes" }
+}
