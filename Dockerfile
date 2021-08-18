@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:8@sha256:55999543690e4016cadc292ae131dabc07edcf7dd9597d7e8e4d4fb6b1c1dddf
 
 RUN apt-get update && apt-get install -y \
         curl \
